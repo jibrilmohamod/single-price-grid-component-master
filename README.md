@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-[(C:\Users\jazim\OneDrive\Desktop\challenges\ch\single-price-grid-component-master\design\Screen Shot 2021-08-10 at 11.49.07.png)]
+[C:\Users\jazim\OneDrive\Desktop\challenges\ch\single-price-grid-component-master\design\screenshot.png]
 
 ### Links
 
@@ -51,6 +51,5 @@ i learned how to use grid and flexbox to create a responsive layout.
 
 - Twitter - [Jibril Mohamod](https://www.twitter.com/ShadaYaMwisho)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
