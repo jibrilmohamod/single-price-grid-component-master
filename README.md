@@ -23,12 +23,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](C:\Users\jazim\OneDrive\Desktop\challenges\ch\single-price-grid-component-master\design\Screen Shot 2021-08-10 at 11.49.07.png)
+[(C:\Users\jazim\OneDrive\Desktop\challenges\ch\single-price-grid-component-master\design\Screen Shot 2021-08-10 at 11.49.07.png)]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/420-bot/single-price-grid-component-master)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/420-bot/single-price-grid-component-master]()
+- Live Site URL: [Add live site URL here]
 
 ## My process
 
