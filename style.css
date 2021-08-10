@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@1,700&display=swap');
+* {
+    box-sizing: border-box;
+    /* margin: 0; */
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Karla', sans-serif;
+}
+
+
+/* Grid styling */
+
+main {
+    display: grid;
+    grid-template: 250px 250px/300px 300px;
+    grid-template-areas: "com com" "mon why";
+    height: 100vh;
+    /* justify-items: center; */
+    justify-content: center;
+    align-content: center;
+}
+
+p,
+ul {
+    font-size: 16px;
+}
+
+article {
+    /* border: 1px solid red; */
+    box-shadow: 1px 1px 4px 2px hsl(204, 43%, 93%);
+    padding: 20px;
+}
+
+h1 {
+    color: hsl(179, 62%, 43%);
+}
+
+div {
+    color: hsl(218, 22%, 67%);
+}
+
+.gr {
+    color: hsl(71, 73%, 54%);
+    font-weight: 700;
+}
+
+.com {
+    grid-area: com;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    /* background-color: hsl(204, 43%, 93%); */
+    /* text-align: center; */
+}
+
+.mon {
+    background-color: hsl(179, 62%, 43%);
+    border-bottom-left-radius: 5px;
+    color: hsl(204, 43%, 93%);
+}
+
+.do {
+    font-size: 25px;
+}
+
+.pe {
+    color: hsl(204, 16%, 47%);
+}
+
+.why {
+    background-color: #4abebd;
+    border-bottom-right-radius: 5px;
+    color: hsl(204, 43%, 93%);
+}
+
+button {
+    color: hsl(204, 43%, 93%);
+    background-color: hsl(71, 73%, 54%);
+    width: 80%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+@media screen and (max-width: 375px) {
+    main {
+        display: flex;
+        flex-direction: column;
+    }
+}
